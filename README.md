@@ -70,8 +70,6 @@ I'm a passionate full-stack & AI enthusiast who thrives on solving real-world pr
 
 ### 🏆 Achievements
 
-- 💻 Completed PostgreSQL Capstone Project  
-- 🧠 Built AI Resume Screener using NLP   
 - 🌐 Built & Deployed Multiple MERN Stack Projects  
 
 ---
