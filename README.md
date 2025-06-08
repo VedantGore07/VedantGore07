@@ -30,7 +30,8 @@
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect with me
+<h4>vedantgore713@gmail.com</h4>
 <p align="center">
   <a href="linkedin.com/in/vedant-gore-a1a948258" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:vedantgore713@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
