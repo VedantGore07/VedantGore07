@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning **DSA and PostgreSQL**  
 - 👯 I’m looking to collaborate on **Open Source & AI Projects**  
 - 🧠 I’m improving in **Spring Boot & MongoDB**  
-- 💬 Ask me about **MERN Stack, Cloud, Resume Screening AI**  
-- 📫 How to reach me: **vedantgore07@example.com**  
+- 💬 Ask me about **MERN Stack**  
+- 📫 How to reach me: **vedantgore713@gmail.com**  
 - ⚡ Fun fact: I love building things that solve real-world problems 💡  
 
 ---
@@ -32,6 +32,6 @@
 
 ### 📫 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:vedantgore07@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="linkedin.com/in/vedant-gore-a1a948258" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:vedantgore713@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
