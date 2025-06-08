@@ -10,7 +10,6 @@ I'm a passionate full-stack & AI enthusiast who thrives on solving real-world pr
 - 💼 MERN Stack Developer | AI Innovator  
 - 🌍 India  
 - 📧 vedantgore713@gmail.com  
-- 🌐 [Portfolio](https://your-portfolio.com) (replace with your actual site)
 - 🧑‍💻 Currently working on **StitchSmart** - a Smart Tailoring App  
 - ⚡ I love building projects that make an impact!
 
