@@ -19,7 +19,6 @@ I'm a passionate full-stack & AI enthusiast who thrives on solving real-world pr
 
 | Project       | Description |
 |--------------|-------------|
-| **StitchSmart** | Tailor web app with dynamic measurements, WhatsApp billing |
 | **Resume Screener AI** | AI-based resume filtering & parsing tool |
 | **SheFlows** | Health tracking web app with Google Fit integration |
 | **HLA Matchmaker** | Medical donor-matching MERN app |
