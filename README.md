@@ -77,6 +77,7 @@ I'm a passionate full-stack & AI enthusiast who thrives on solving real-world pr
 ### 📫 Connect With Me
 
 <p align="center">
+  <a href="https://twitter.com/VedantGore07"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
   <a href="https://linkedin.com/in/vedant-gore-a1a948258" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
   <a href="mailto:vedantgore713@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/u/_vedan8_07/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
