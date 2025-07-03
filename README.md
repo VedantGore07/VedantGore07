@@ -19,6 +19,7 @@ I'm a passionate full-stack & AI enthusiast who thrives on solving real-world pr
 
 | Project       | Description |
 |--------------|-------------|
+| **Parlour Admin Dashboard** | Role-based employee management and live attendance tracker built with Next.js, MongoDB, Socket.IO, and Tailwind CSS |
 | **Resume Screener AI** | AI-based resume filtering & parsing tool |
 | **SheFlows** | Health tracking web app with Google Fit integration |
 | **HLA Matchmaker** | Medical donor-matching MERN app |
