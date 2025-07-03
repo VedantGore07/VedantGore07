@@ -26,31 +26,32 @@ I'm a passionate full-stack & AI enthusiast who thrives on solving real-world pr
 
 ---
 
-### 🛠️ Languages, Tools & Frameworks
+🛠️ Languages, Tools & Frameworks
+🚀 Web & App Dev
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,mongodb,postgresql,tailwind,bootstrap,html,css,javascript" /> </p>
+🧩 Built full-stack apps using MERN & Next.js 15 (App Router)
 
-#### 🚀 Web & App Dev  
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgresql,tailwind,bootstrap,html,css,javascript" />
-</p>
+🧾 Admin Dashboards with role-based auth (JWT)
 
-#### 🧠 AI & Data Science  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,jupyter,opencv" />
-</p>
+🧑‍💼 Real-time features via Socket.IO for attendance tracking
 
-- ✅ Projects: Resume Screener, Plant Disease Classifier  
-- 💡 Concepts: Text Summarization, Image Classification, NLP, CNN  
+🗂️ MVC architecture, REST APIs, and secure form validations
 
-#### ☁️ DevOps & Cloud  
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,docker,git,github,firebase,cloudflare" />
-</p>
+🧠 AI & Data Science
+<p> <img src="https://skillicons.dev/icons?i=python,jupyter,opencv" /> </p>
+✅ Projects: Resume Screener, Plant Disease Classifier
 
-- 🚀 Deployments on Vercel & Firebase  
-- 🔐 Used Cloudinary for image uploads  
-- 💬 WhatsApp Cloud API for invoice messaging  
+💡 Concepts: Text Summarization, Image Classification, NLP, CNN
 
+☁️ DevOps & Cloud
+<p> <img src="https://skillicons.dev/icons?i=vercel,docker,git,github,firebase,cloudflare" /> </p>
+🚀 Deployed web apps on Vercel & Firebase
 
+🔐 Used Cloudinary for image uploads
+
+📦 PDF Invoice Generation & WhatsApp Cloud API
+
+🧪 Integrated live data with Socket.IO + MongoDB Atlas
 ---
 
 ### 📈 GitHub Stats & Activity
