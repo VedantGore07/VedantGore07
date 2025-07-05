@@ -28,14 +28,14 @@ I'm a passionate full-stack & AI enthusiast who thrives on solving real-world pr
 
 🛠️ Languages, Tools & Frameworks
 🚀 Web & App Dev
-<p> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,mongodb,postgresql,tailwind,bootstrap,html,css,javascript" /> </p>
-🧩 Built full-stack apps using MERN & Next.js 15 (App Router)
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,spring,java,mongodb,postgresql,tailwind,bootstrap,html,css,javascript" /> </p>
+🧩 Built full-stack apps using MERN, Next.js 15 (App Router), and Spring Boot
 
-🧾 Admin Dashboards with role-based auth (JWT)
+🧾 Admin Dashboards with role-based authentication (JWT)
 
 🧑‍💼 Real-time features via Socket.IO for attendance tracking
 
-🗂️ MVC architecture, REST APIs, and secure form validations
+🗂️ Followed MVC architecture, REST APIs, secure form validations, and Spring AOP
 
 🧠 AI & Data Science
 <p> <img src="https://skillicons.dev/icons?i=python,jupyter,opencv" /> </p>
@@ -52,6 +52,8 @@ I'm a passionate full-stack & AI enthusiast who thrives on solving real-world pr
 📦 PDF Invoice Generation & WhatsApp Cloud API
 
 🧪 Integrated live data with Socket.IO + MongoDB Atlas
+
+
 ---
 
 ### 📈 GitHub Stats & Activity
