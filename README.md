@@ -7,7 +7,7 @@ I'm a passionate full-stack & AI enthusiast who thrives on solving real-world pr
 
 ### 🎯 About Me
 
-- 💼 MERN Stack Developer
+- 💼 MERN Stack Developer and AI Builder
 - 🌍 India  
 - 📧 vedantgore713@gmail.com  
 - 🧑‍💻 Currently working on **Ecommerce WebApplication** 
