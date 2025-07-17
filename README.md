@@ -72,7 +72,7 @@ I'm a passionate full-stack & AI enthusiast who thrives on solving real-world pr
 
 ### 🏆 Achievements
 
-- 🌐 Built & Deployed Multiple MERN Stack Projects  
+- 🌐 Built & Deployed Multiple MERN Stack Projects 
 
 ---
 
